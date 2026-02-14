@@ -1,0 +1,2 @@
+# Genetic-Algorithm-Based-Identification-of-a-Nonlinear-Static-System-Using-Gaussian-Basis-Functions
+MATLAB project that implements a Genetic Algorithm from scratch to identify a nonlinear static system  𝑦 = 𝑓 ( 𝑢 1 , 𝑢 2 ) y=f(u 1,u 2 ) by fitting a Gaussian (RBF) basis-function model. Includes train/test data generation, MSE cost, tournament selection, crossover, mutation, elitism, and visualization of true vs estimated surfaces
